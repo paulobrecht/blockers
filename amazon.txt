@@ -1,0 +1,8 @@
+# amazon
+
+# (devices frequently contacted by Echo devices while not currently engaged in user-directed tasks)
+
+device-metrics-us.amazon.com
+device-metrics-us-2.amazon.com
+echo.ntp-fireos.com
+fireoscaptiveportal.com
