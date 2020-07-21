@@ -1,0 +1,33 @@
+# List of distractions and time-wasters for custom blocking
+
+# tiktok
+
+tiktok.com
+tiktok.org
+
+muscdn.com
+musical.ly
+
+tiktokv.com
+tiktokcdn.com
+tiktokcdn-com.akamaized.net
+www.tiktok.com.edgesuite.net
+p16-tiktokcdn-com.akamaized.net
+v16-tiktokcdn-com.akamaized.net
+
+isnssdk.com
+ibyteimg.com
+
+# fb and insta
+facebook.com
+www.facebook.com
+static.xx.fbcdn.net
+connect.facebook.net
+www.instagram.com
+instagram.ffsd3-1.fna.fbcdn.net
+scontent.ffsd3-1.fna.fbcdn.net
+edge-chat.instagram.com
+graph.instagram.com
+
+# twitch
+twitch.tv
