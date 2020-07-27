@@ -3,31 +3,84 @@
 # tiktok
 
 tiktok.com
+m.tiktok.com
+t.tiktok.com
+www.tiktok.com
+
+a747.mm1.akamai.net
+a1836.r.akamai.net
+a1964.mm2.akamai.net
+a1965.dscb.akamai.net
+a2047.r.akamai.net
+
 tiktok.org
 
 muscdn.com
 musical.ly
 
 tiktokv.com
+
 tiktokcdn.com
+p16-va.tiktokcdn.com
+s16.tiktokcdn.com
+v16.tiktokcdn.com
+v16m.tiktokcdn.com
+v19.tiktokcdn.com
+
 tiktokcdn-com.akamaized.net
-www.tiktok.com.edgesuite.net
 p16-tiktokcdn-com.akamaized.net
 v16-tiktokcdn-com.akamaized.net
 
+www.tiktok.com.edgesuite.net
+t.tiktok.com.edgesuite.net
+m.tiktok.com.edgesuite.net
+
 isnssdk.com
+
 ibyteimg.com
+p16-tiktok-va.ibyteimg.com
+p16-tiktok-sg.ibyteimg.com
+p16-va-tiktok.ibyteimg.com
+
+mon-va.byteoversea.com
+verification-va.byteoversea.com
+starling-oversea.byteoversea.com
+
+sf-tb-sg.ibytedtos.com
+sf16-muse-va.ibytedtos.com
+
+
+video.h1.bytedance.map.fastly.net
+
+
+
 
 # fb and insta
 facebook.com
 www.facebook.com
+m.facebook.com
+upload.facebook.com
+fbsbx.com
+fbcdn.com
 static.xx.fbcdn.net
 connect.facebook.net
+edge-chat.facebook.com
+
+star-mini.c10r.facebook.com
+
 www.instagram.com
+api.instagram.com
+edge-chat.instagram.com
+
+static.xx.fbcdn.net
+scontent.xx.fbcdn.net
+external-sea1-1.xx.fbcdn.net
 instagram.ffsd3-1.fna.fbcdn.net
 scontent.ffsd3-1.fna.fbcdn.net
+scontent-sea1-1.xx.fbcdn.net
 edge-chat.instagram.com
 graph.instagram.com
+scontent-sea1-1.cdninstagram.com
 
 # twitch
 twitch.tv
