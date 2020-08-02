@@ -59,6 +59,7 @@ video.h1.bytedance.map.fastly.net
 facebook.com
 www.facebook.com
 m.facebook.com
+graph.facebook.com
 upload.facebook.com
 fbsbx.com
 fbcdn.com
@@ -66,18 +67,21 @@ static.xx.fbcdn.net
 connect.facebook.net
 edge-chat.facebook.com
 
-star-mini.c10r.facebook.com
-
-www.instagram.com
-api.instagram.com
-edge-chat.instagram.com
-
 static.xx.fbcdn.net
 scontent.xx.fbcdn.net
 external-sea1-1.xx.fbcdn.net
 instagram.ffsd3-1.fna.fbcdn.net
 scontent.ffsd3-1.fna.fbcdn.net
 scontent-sea1-1.xx.fbcdn.net
+
+star-mini.c10r.facebook.com
+star.c10r.facebook.com
+
+instagram.com
+www.instagram.com
+api.instagram.com
+edge-chat.instagram.com
+
 edge-chat.instagram.com
 graph.instagram.com
 scontent-sea1-1.cdninstagram.com
