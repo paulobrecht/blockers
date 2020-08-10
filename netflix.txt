@@ -11,10 +11,12 @@ ixanycast.ftl.netflix.com
 
 go.nflx.me
 
+
 crossroads.geo.netflix.com
 crossroads.eu-west-1.prodaa.netflix.com
 crossroads.us-east-1.prodaa.netflix.com
 crossroads.us-west-2.prodaa.netflix.com
+www.us-west-2.prodaa.netflix.com
 oca-api.eu-west-1.origin.prodaa.netflix.com
 oca-api.us-east-1.origin.prodaa.netflix.com
 oca-api.us-west-2.origin.prodaa.netflix.com
