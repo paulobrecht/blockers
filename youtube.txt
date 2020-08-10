@@ -9,6 +9,15 @@ s.youtube.com
 
 youtu.be
 
+googlehosted.l.googleusercontent.com
+photos-ugc.l.googleusercontent.com
+lh1.googleusercontent.com
+lh2.googleusercontent.com
+lh3.googleusercontent.com
+lh4.googleusercontent.com
+lh5.googleusercontent.com
+lh6.googleusercontent.com
+
 youtubei.googleapis.com
 www.youtube-nocookie.com
 
@@ -18,6 +27,8 @@ s.ytimg.com
 i.ytimg.com
 i1.ytimg.com
 i9.ytimg.com
+
+yt3.ggpht.com
 
 googlevideo.com
 manifest.googlevideo.com
@@ -37,6 +48,7 @@ r1---sn-n02xgoxufvg3-2gbz.googlevideo.com
 r1---sn-n4v7sn76.googlevideo.com
 r1---sn-n4v7sn7s.googlevideo.com
 r1---sn-nx57ynld.googlevideo.com
+r1---sn-nx57ynl6.googlevideo.com
 r1---sn-nx57ynls.googlevideo.com
 r1---sn-nx57ynlz.googlevideo.com
 r1---sn-nx5e6n76.googlevideo.com
@@ -87,6 +99,7 @@ r3---sn-a5mlrn7l.googlevideo.com
 r3---sn-a5mlrnes.googlevideo.com
 r3---sn-a5msen76.googlevideo.com
 r3---sn-a5msen7l.googlevideo.com
+r3---sn-a5msen7s.googlevideo.com
 r3---sn-aigzrne7.googlevideo.com
 r3---sn-hp57yn7y.googlevideo.com
 r3---sn-n02xgoxufvg3-2gbz.googlevideo.com
