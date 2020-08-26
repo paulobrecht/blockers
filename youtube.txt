@@ -9,7 +9,7 @@ s.youtube.com
 
 youtu.be
 
-googlehosted.l.googleusercontent.com
+# googlehosted.l.googleusercontent.com # seems to break MacOS Calendar's access to Google calendars
 photos-ugc.l.googleusercontent.com
 lh1.googleusercontent.com
 lh2.googleusercontent.com
