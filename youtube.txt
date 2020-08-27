@@ -10,14 +10,15 @@ s.youtube.com
 youtu.be
 
 # googlehosted.l.googleusercontent.com # seems to break MacOS Calendar's access to Google calendars
-photos-ugc.l.googleusercontent.com
+# photos-ugc.l.googleusercontent.com
 
-lh1.googleusercontent.com
-lh2.googleusercontent.com
-# lh3.googleusercontent.com # Blocking this seems to affect Google Photos
-lh4.googleusercontent.com
-lh5.googleusercontent.com
-lh6.googleusercontent.com
+# Blocking these seems to affect Google Photos, avatars across Google properties, etc.
+# lh1.googleusercontent.com 
+# lh2.googleusercontent.com
+# lh3.googleusercontent.com
+# lh4.googleusercontent.com
+# lh5.googleusercontent.com
+# lh6.googleusercontent.com
 
 youtubei.googleapis.com
 www.youtube-nocookie.com
