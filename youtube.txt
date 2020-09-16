@@ -22,6 +22,7 @@ youtu.be
 
 youtubei.googleapis.com
 www.youtube-nocookie.com
+youtube-ui.l.google.com
 
 ytimg.l.google.com
 ytimg.com
