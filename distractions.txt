@@ -88,3 +88,23 @@ scontent-sea1-1.cdninstagram.com
 
 # twitch
 twitch.tv
+
+
+# pinterest
+www.pinterest.com
+www.pinterest.at
+api.pinterest.com
+post.pinterest.com
+accounts.pinterest.com
+sk.pinterest.com
+ct.pinterest.com
+
+dualstack.pinterest.map.fastly.net
+prod.pinterest.global.map.fastly.net
+www.pinterest.com.edgekey.net
+
+www-pinterest-com-edgekey-net.pinterest.com
+www-pinterest-com-edgekey-staging-net.pinterest.com
+api.pinterest.com.gslb.pinterest.com
+i.pinimg.com.gslb.pinterest.com
+v.pinimg.com.gslb.pinterest.com
