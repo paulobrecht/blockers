@@ -1,6 +1,8 @@
 # List of distractions and time-wasters for custom blocking
 
+#--------------
 # tiktok
+#--------------
 
 tiktok.com
 m.tiktok.com
@@ -49,13 +51,15 @@ starling-oversea.byteoversea.com
 sf-tb-sg.ibytedtos.com
 sf16-muse-va.ibytedtos.com
 
-
 video.h1.bytedance.map.fastly.net
 
 
 
 
+#--------------
 # fb and insta
+#--------------
+
 facebook.com
 www.facebook.com
 m.facebook.com
@@ -86,10 +90,21 @@ edge-chat.instagram.com
 graph.instagram.com
 scontent-sea1-1.cdninstagram.com
 
+
+
+
+#--------------
 # twitch
+#--------------
+
 twitch.tv
 
+
+
+
+#--------------
 # poki
+#--------------
 
 poki.com
 a.poki.com
@@ -135,21 +150,111 @@ poki.cn
 poki.jp
 poki.co.il
 
+
+
+
+#--------------
 # pinterest
+#--------------
+
 www.pinterest.com
 www.pinterest.at
 api.pinterest.com
 post.pinterest.com
+trk.pinterest.com
 accounts.pinterest.com
 sk.pinterest.com
 ct.pinterest.com
 
 dualstack.pinterest.map.fastly.net
+dualstack-pinterest-map-fastly-net.pinimg.com
 prod.pinterest.global.map.fastly.net
 www.pinterest.com.edgekey.net
 
 www-pinterest-com-edgekey-net.pinterest.com
 www-pinterest-com-edgekey-staging-net.pinterest.com
 api.pinterest.com.gslb.pinterest.com
+
+i.pinimg.com.edgekey.net
 i.pinimg.com.gslb.pinterest.com
+i-pinimg-com-cdn-cloudflare-net.pinimg.com
+i-pinimg-com-cdn-cloudflare-net.pinimg.com.cdn.cloudflare.net
+
 v.pinimg.com.gslb.pinterest.com
+v.pinimg.com.edgesuite.net
+v-pinimg-com-edgesuite-net.pinimg.com
+v-pinimg-com-edgekey-net.pinimg.com
+v-pinimg-com-cdn-cloudflare-net.pinimg.com
+
+pinimg.com
+i.pinimg.com
+s.pinimg.com
+v.pinimg.com
+dualstack-pinterest-map-fastly-net.pinimg.com
+
+
+
+
+#--------------
+# poki
+#--------------
+
+poki.com
+a.poki.com
+api.poki.com
+img.poki.com
+about.poki.com
+developers.poki.com
+jobs.poki.com
+kids.poki.com
+poki.io
+t.poki.io
+www.megajatek.hu
+www.jeuxjeuxjeux.fr
+poki.com
+www.1001oyun.com
+poki.ro
+www.megaspel.se
+poki.com/ru
+poki.de
+poki.it
+poki.dk
+www.123pelit.com
+poki.no
+www.moiteigri.com
+poki.pl
+www.hrajhry.sk
+poki.gr
+poki.com/id
+poki.com.br
+poki.cz
+www.trochoi.net
+poki.nl
+poki.be
+poki.pt
+www.paisdelosjuegos.com.mx
+www.paisdelosjuegos.com.co
+www.paisdelosjuegos.es
+www.jeuxjeuxjeux.ch
+www.spielyeti.ch
+poki.at
+poki.by
+poki.com/ua
+www.paisdelosjuegos.com.pa
+poki.com/ar
+poki.com/th
+poki.cn
+poki.com/kr
+poki.jp
+poki.co.il
+poki.com/es
+poki.com/
+
+
+
+#--------------
+# MISC
+#--------------
+anilist.co
+www.anilist.co
+s4.anilist.co
