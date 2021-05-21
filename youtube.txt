@@ -11,6 +11,7 @@ suggestqueries-clients6.youtube.com
 youtu.be
 
 youtubei.googleapis.com
+youtube.googleapis.com
 www.youtube-nocookie.com
 youtube-ui.l.google.com
 
