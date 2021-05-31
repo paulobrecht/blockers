@@ -103,57 +103,6 @@ twitch.tv
 
 
 #--------------
-# poki
-#--------------
-
-poki.com
-a.poki.com
-api.poki.com
-img.poki.com
-www.poki.com
-about.poki.com
-developers.poki.com
-jobs.poki.com
-kids.poki.com
-poki.io
-t.poki.io
-www.megajatek.hu
-www.jeuxjeuxjeux.fr
-poki.com
-www.1001oyun.com
-poki.ro
-www.megaspel.se
-poki.de
-poki.it
-poki.dk
-www.123pelit.com
-poki.no
-www.moiteigri.com
-poki.pl
-www.hrajhry.sk
-poki.gr
-poki.com.br
-poki.cz
-www.trochoi.net
-poki.nl
-poki.be
-poki.pt
-www.paisdelosjuegos.com.mx
-www.paisdelosjuegos.com.co
-www.paisdelosjuegos.es
-www.jeuxjeuxjeux.ch
-www.spielyeti.ch
-poki.at
-poki.by
-www.paisdelosjuegos.com.pa
-poki.cn
-poki.jp
-poki.co.il
-
-
-
-
-#--------------
 # pinterest
 #--------------
 
@@ -203,6 +152,7 @@ poki.com
 a.poki.com
 api.poki.com
 img.poki.com
+www.poki.com
 about.poki.com
 developers.poki.com
 jobs.poki.com
@@ -215,7 +165,6 @@ poki.com
 www.1001oyun.com
 poki.ro
 www.megaspel.se
-poki.com/ru
 poki.de
 poki.it
 poki.dk
@@ -225,7 +174,6 @@ www.moiteigri.com
 poki.pl
 www.hrajhry.sk
 poki.gr
-poki.com/id
 poki.com.br
 poki.cz
 www.trochoi.net
@@ -239,16 +187,11 @@ www.jeuxjeuxjeux.ch
 www.spielyeti.ch
 poki.at
 poki.by
-poki.com/ua
 www.paisdelosjuegos.com.pa
-poki.com/ar
-poki.com/th
 poki.cn
-poki.com/kr
 poki.jp
 poki.co.il
-poki.com/es
-poki.com/
+
 
 
 
