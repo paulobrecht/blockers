@@ -7,7 +7,16 @@
 tiktok.com
 m.tiktok.com
 t.tiktok.com
+vm.tiktok.com
 www.tiktok.com
+
+p19-sign.tiktokcdn-us.com
+push-rtmp-f5-gcp01.tiktokcdn.com.c.worldfcdn.com
+pull-w5-va01.tiktokcdn.com
+mon16-platform-useast5.us.tiktokv.com
+v25.tiktokcdn-us.com
+v39.tiktokcdn-us.com
+hotapi16-platform-useast5.us.tiktokv.com
 
 a747.mm1.akamai.net
 a1836.r.akamai.net
@@ -52,7 +61,7 @@ sf-tb-sg.ibytedtos.com
 sf16-muse-va.ibytedtos.com
 
 video.h1.bytedance.map.fastly.net
-
+pitaya-task-va.bytedance.com
 
 
 
