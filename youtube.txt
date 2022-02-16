@@ -9,6 +9,8 @@ m.youtube.com
 s.youtube.com
 accounts.youtube.com
 suggestqueries-clients6.youtube.com
+restrictmoderate.youtube.com
+restrict.youtube.com
 
 www.youtube-nocookie.com
 
