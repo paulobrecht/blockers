@@ -916,8 +916,24 @@ www.instagram.com
 #--------------
 
 twitch.tv
-
-
+www.twitch.tv
+api.twitch.tv
+countess.twitch.tv
+gql.twitch.tv
+passport.twitch.tv
+panels-images.twitch.tv
+pubsub-edge.twitch.tv
+vod-secure.twitch.tv
+clips-media-assets2.twitch.tv
+edge.ads.twitch.tv
+extension-files.twitch.tv
+irc-ws.chat.twitch.tv
+supervisor.ext-twitch.tv
+c8okel68mmobvnso7ty0cygj8easam.ext-twitch.tv
+h2.twitch.map.fastly.net
+p.twitchcdn.net
+static.twitchcdn.net
+twitch.map.fastly.net
 
 
 #--------------
