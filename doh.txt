@@ -1,4 +1,4 @@
-1dot1dot1dot1.cloudflare-dns.com
+#1dot1dot1dot1.cloudflare-dns.com
 a.family.ns.dnslify.com
 a.ns.dnslify.com
 a.safe.ns.dnslify.com
@@ -12,7 +12,7 @@ adult-filter-dns.cleanbrowsing.org
 b.family.ns.dnslify.com
 b.ns.dnslify.com
 b.safe.ns.dnslify.com
-cloudflare-dns.com
+#cloudflare-dns.com
 commons.host
 dns-family.adguard.com
 dns-nosec.quad9.net
@@ -46,7 +46,7 @@ dns10.quad9.net
 dns11.quad9.net
 dns2.alekberg.net
 dns2.dnscrypt.ca
-dns64.cloudflare-dns.com
+#dns64.cloudflare-dns.com
 dns64.dns.google
 dns9.quad9.net
 dnsforge.de
@@ -87,7 +87,7 @@ dohtrial.att.net
 ea-dns.rubyfish.cn
 family-filter-dns.cleanbrowsing.org
 family.canadianshield.cira.ca
-family.cloudflare-dns.com
+#family.cloudflare-dns.com
 fi.doh.dns.snopyta.org
 google-public-dns-a.google.com
 google-public-dns-b.google.com
@@ -98,7 +98,7 @@ jcdns.fun
 jp.gridns.xyz
 jp.tiar.app
 jp.tiarap.org
-mozilla.cloudflare-dns.com
+#mozilla.cloudflare-dns.com
 ndns.233py.com
 ns1.recursive.dnsbycomodo.com
 ns2.recursive.dnsbycomodo.com
@@ -121,7 +121,8 @@ rpz-public-resolver1.rrdns.pch.net
 rumpelsepp.org
 sdns.233py.com
 security-filter-dns.cleanbrowsing.org
-security.cloudflare-dns.com
+security.
+flare-dns.com
 uncensored.any.dns.nixnet.xyz
 uncensored.lux1.dns.nixnet.xyz
 uncensored.lv1.dns.nixnet.xyz
